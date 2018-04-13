@@ -63,10 +63,23 @@ a.item{
 
 .ui.table{
     background: none;
-    color: color: rgb(6, 146, 134);
+    color: rgb(6, 146, 134);
 }
 
 .ui.table td{
     padding: 2.5em 1em;
-    color: rgb(203, 216, 216);
+    color: rgb(189, 95, 23);
+}
+
+.ui.inverter.grey.buttpn{
+    background: green !important;
+}
+
+.ui.button{
+    margin-right: 2em;
+    border-radius: 0.5em;
+}
+
+.ui.inverter.green.button{
+    color: white;
 }
