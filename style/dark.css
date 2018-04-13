@@ -1,0 +1,72 @@
+body{
+    background: rgb(49, 47, 47);
+}
+
+
+.ui.container{
+    min-width: 98%;
+}
+
+.ui.floated.header{
+    font-size: 2em;
+    color: rgb(203, 216, 216);
+    letter-spacing: 0.5em;
+}
+
+.right_header{
+    margin-top: 4%;
+    padding-bottom: 3%;
+}
+
+.ui.tiny.menu{
+    margin-top: 4%;
+    background: rgb(54, 51, 51);
+    border-bottom: rgb(95, 89, 89) groove;
+}
+
+.ui.tiny.menu a{
+    transform:rotate(3deg);
+}
+
+.right.menu a{
+    transform: rotate(0deg) !important;
+}
+
+a.item{
+    color:rgb(13, 202, 92) !important;
+    font-size: 1.25em;
+}
+
+.ui.grid>.column:not(.row) {
+    margin-top: 5%;
+    color: rgb(203, 216, 216);
+}
+
+
+.five.column{
+    margin-right: 0em;
+}
+
+.sorular{
+    margin-top: 5%;
+}
+
+.ui.selectable.black.table{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.ui.selectable.black.table tr{
+    background: rgb(70, 66, 66);
+    padding-bottom: 5%;
+}
+
+.ui.table{
+    background: none;
+    color: color: rgb(6, 146, 134);
+}
+
+.ui.table td{
+    padding: 2.5em 1em;
+    color: rgb(203, 216, 216);
+}
